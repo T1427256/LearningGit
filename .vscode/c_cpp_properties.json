@@ -1,0 +1,29 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}",
+                "D:/MySpace/LearningGit/include"
+            ],
+            "browse": {  
+                "path": [  
+                    "${workspaceFolder}",  
+                    "D:/MySpace/LearningGit/include"  
+                ],  
+                "limitSymbolsToIncludedHeaders": true,  
+                "databaseFilename": ""  
+            },  
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\mingw-w64\\mingw32\\bin\\gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
